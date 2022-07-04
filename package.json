@@ -1,5 +1,5 @@
 {
-  "name": "cra-build-watch",
+  "name": "@hiteshtr/cra-build-watch",
   "version": "0.0.0-development",
   "description": "A script for create-react-app that writes development builds to the disk",
   "main": "scripts/index.js",
